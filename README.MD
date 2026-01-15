@@ -1,2 +1,6 @@
 ﻿# Edu_Centre
-Dashboard : Ahmed mkhier
+Dashboard : bilal mohamed  
+Etudiant : zakaria habli 
+professeur et rapports : Ahmed mkhier 
+Cours : Salah Wirzgane
+inscription : Marwan bouftama
